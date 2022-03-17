@@ -1,5 +1,13 @@
 {% include navigation.html %}
 
+## Week 1
+
+`5.3 - Computing Bias`
+
+`5.4 - Crowdsourcing`
+
+
+
 ## Week 0 
 
 `5.1 - Beneficial and Harmful Effects`
