@@ -1,7 +1,7 @@
 def menu(banner, options):
     print()
     print(banner)
-  
+
     prompts = {0: ["Exit", None]}
     for op in options:
         index = len(prompts)
@@ -12,21 +12,22 @@ def menu(banner, options):
 
     choice = input("Type your choice> ")
 
-    try:
+    try:  
         choice = int(choice)
         if choice == 0:
-            return
-        try:
+            return 
+        try:  
             action = prompts.get(choice)[1]
-            action()
-        except TypeError:
-            try:
-                exec(open(action).read())
-            except FileNotFoundError:
-                print(f"File not found!: {action}")
-    except ValueError:
+            exec(open(action).read())
+        except:
+            try: 
+                action()
+            except:
+                print(f"Bad action: {action}")
+    except ValueError:  
         print(f"Not a number: {choice}")
-    except UnboundLocalError:
+    except: 
         print(f"Invalid choice: {choice}")
-
-    menu(banner, options)
+  
+    menu(banner, options)  
+0
