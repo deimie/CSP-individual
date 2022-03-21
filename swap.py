@@ -1,7 +1,7 @@
-age1 = input('Input first number: ')
-age2 = input('Input second number: ')
+num1 = input('Input first number: ')
+num2 = input('Input second number: ')
 
-myList = [age1, age2]
+myList = [num1, num2]
 myList.sort()
 
 print(myList[0] + ', ' + myList[1])

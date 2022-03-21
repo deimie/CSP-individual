@@ -2,7 +2,8 @@ import menuy
 
 main_menu = [
   ["Swap", "swap.py"], 
-  ["Christmas Tree", "xmasTree.py"]
+  ["Christmas Tree", "xmasTree.py"],
+  ["Fibonacci", "fibonacci.py"]
 ]
 
 border = "=" * 25
