@@ -4,6 +4,7 @@
 
 `5.3 - Computing Bias`
 
+### Questions
 - **Does the owner of the computer think this was intentional?**
 
   The owner likely does not think this was intentional.
@@ -28,8 +29,16 @@
 
   Ensure better testing phase policies so that mistakes like this can't be released to the public.
 
+<hr>
+
+### Notes
+- Netflix sometimes caters biased suggestions to users based on activity.
+- Humans are usually much more prone to bias, but even computers can be biased.
+- Voice assistants usually have a hard time understanding thick accents.
+
 `5.4 - Crowdsourcing`
 
+### Questions
 - **CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
 
   I could send out a survey asking a large sample of students about how I could improve my site.
@@ -37,6 +46,15 @@
 - **What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
 
   I could ask students around the campus what kinds of study tools they like to use.
+
+<hr>
+
+### Notes
+- Crowdsourcing is a good way to gather data from a target sample to make improvements based on reviews from the sample.
+- Wikipedia is the largest source of crowdsourcing by letting users edit the pages.
+- All crypto exchanges are validated by 3 different miners to make sure the exchange is not fraudulent.
+- Using an API is an example of crowdsourcing.
+- Forking github code is also an example of crowdsourcing.
 
 ## Week 0 
 
