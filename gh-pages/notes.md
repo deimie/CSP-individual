@@ -32,11 +32,11 @@
 
 - **CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
 
-  
+  I could send out a survey asking a large sample of students about how I could improve my site.
 
 - **What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
 
-  
+  I could ask students around the campus what kinds of study tools they like to use.
 
 ## Week 0 
 
