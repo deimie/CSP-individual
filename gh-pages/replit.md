@@ -1,1 +1,1 @@
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@deimie/individual?embed=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@deimie/individual-14?embed=true"></iframe>
