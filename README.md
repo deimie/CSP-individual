@@ -31,7 +31,6 @@
   <tr>
     <td>Fibonacci</td>
     <td><a href="https://github.com/deimie/individual/commit/561ecb86fa782cb453cf60fc092fb385de30e777">Link</a></td>
-</table>
 
 ## Week 0
     
