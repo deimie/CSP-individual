@@ -10,6 +10,10 @@
 
 - **Make a license for your personal and Team project. Document license you picked and why.**
 
+<hr>
+
+### Notes
+
 `5.6 - Safe Computing`
 
 ### Questions
@@ -25,6 +29,10 @@
 - **Provide and example of encryption we used in deployment.**
 
 - **Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.**
+
+<hr>
+
+### Notes
 
 ## Week 1
 
