@@ -23,6 +23,7 @@
   <tr>
     <td>Adventure File</td>
     <td></td>
+  </tr>
 </table>
 
 ## Week 1
