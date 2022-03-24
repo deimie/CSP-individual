@@ -8,7 +8,11 @@
 
 - **When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.**
 
+There are varying licenses that restrict other people from using your code/material certain amounts. Some licenses such as the MIT license are very easy to work with and allows use of code for free. The creative commons license has copyright restrictions and is tougher to distribute.
+
 - **Make a license for your personal and Team project. Document license you picked and why.**
+
+We picked the MIT license because we want our code to be easily accessable with little restriction.
 
 <hr>
 
@@ -23,6 +27,8 @@
 - **What are your feelings about PII and your exposure?**
 
 - **Describe good and bad passwords? What is another step that is used to assist in authentication.**
+
+Good passwords are decently long, use a good mix of letters/numbers/symbols, and don't reference to anything about your life. Bad passwords are actual words or just too short. Another step that can be used is 2-step authentication. This requires a second confirmation from an email/text sent to you specifically.
 
 - **Try to describe Symmetric and Asymmetric encryption.**
 
