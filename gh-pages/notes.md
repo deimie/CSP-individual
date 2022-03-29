@@ -110,6 +110,8 @@ I was once sent a link from a close friend that was a free premium account to a 
 
 * IOC-2.A.15   
   * Information posted to social media can be used by others. Combining information posted on social media and other sources can be used to deduce private information about you.
+
+
 ## Week 1
 
 `5.3 - Computing Bias`
