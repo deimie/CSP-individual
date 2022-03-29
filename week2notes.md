@@ -1,10 +1,10 @@
-{% include navigation.html %}
+{% includes navigation.html %}
 
 # Week 2: 5.5 and 5.6
 
 # Weeks
 
-{% include noteweeks.html %}
+{% includes noteweeks.html %}
 
 `5.5 - Legal and Ethical Concerns`
 
