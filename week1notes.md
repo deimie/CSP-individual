@@ -1,10 +1,10 @@
-{% includes navigation.html %}
+{% include navigation.html %}
 
 # Week 1: 5.3 and 5.4
 
 # Weeks
 
-{% includes noteweeks.html %}
+{% include noteweeks.html %}
 
 `5.3 - Computing Bias`
 
