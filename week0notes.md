@@ -1,10 +1,10 @@
-{% includes navigation.html %}
+{% include navigation.html %}
 
 # Week 0: 5.1 and 5.2
 
 # Weeks
 
-{% includes noteweeks.html %}
+{% include noteweeks.html %}
 
 `5.1 - Beneficial and Harmful Effects`
 * Essential Knowledge
