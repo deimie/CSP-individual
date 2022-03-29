@@ -30,4 +30,3 @@ def menu(banner, options):
         print(f"Invalid choice: {choice}")
   
     menu(banner, options)  
-0

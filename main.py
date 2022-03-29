@@ -1,9 +1,13 @@
 import menuy 
 
 main_menu = [
-  ["Swap", "swap.py"], 
-  ["Christmas Tree", "xmasTree.py"],
-  ["Fibonacci", "fibonacci.py"]
+  ["Swap", "weeklyChallenges/week0/swap.py"], 
+  ["Christmas Tree", "weeklyChallenges/week0/xmasTree.py"],
+  ["Fibonacci", "weeklyChallenges/week1/fibonacci.py"],
+  ["InfoDb", "weeklyChallenges/week1/infoDB.py"],
+  ["Fibonacci w/ Class", "weeklyChallenges/week2/fibonacciClass.py"],
+  ["Factorial", "weeklyChallenges/week2/factorial.py"],
+  ["Factors", "weeklyChallenges/week2/factors.py"]
 ]
 
 border = "=" * 25

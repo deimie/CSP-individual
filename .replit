@@ -1,2 +1,2 @@
 language = "python3"
-run = "python main.py"
+run = ["python3", "weeklyChallenges/week2/factors.py"]
