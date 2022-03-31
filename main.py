@@ -1,9 +1,12 @@
+from week0 import Animation
+
 main_menu = [
 ]
 
 week0_list = [
     ["Swap", "week0/swap.py"],
-    ["Tree", "week0/xmasTree.py"]
+    ["Tree", "week0/xmasTree.py"],
+    ["Animation", Animation.ship]
 ]
 
 week1_list = [
