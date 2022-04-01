@@ -11,18 +11,18 @@
   </tr>
   
   <tr>
-    <td>Fibonacci Class</td>
-    <td></td>
+    <td>Fibonacci with OOP</td>
+    <td><a href="https://github.com/deimie/individual/commit/77bc38886b84b8c77a376052edb057ad21fdb4c5">Link</a></td>
   </tr>
   
   <tr>
-    <td>Math Class</td>
-    <td></td>
+    <td>Factor Finder</td>
+    <td><a href="https://github.com/deimie/individual/commit/77bc38886b84b8c77a376052edb057ad21fdb4c5">Link</a></td>
   </tr>
   
   <tr>
-    <td>Adventure File</td>
-    <td></td>
+    <td>Factorial with OOP</td>
+    <td><a href="https://github.com/deimie/individual/commit/77bc38886b84b8c77a376052edb057ad21fdb4c5">Link</a></td>
   </tr>
 </table>
 
