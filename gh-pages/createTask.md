@@ -17,7 +17,7 @@ We will submit a video that is:
 * Less than 30 MB in file size
 * .mp4, .wmv, .avi, or .mov format
 
-## Idea: Cookie Clicker Game
+## Idea: Virtual Garden
 
 Input: User adds seeds to virtual garden.
 
