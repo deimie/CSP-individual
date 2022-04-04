@@ -19,17 +19,17 @@ We will submit a video that is:
 
 ## Idea: Cookie Clicker Game
 
-Input: User clicks on cookie and uses buttons on upgrade pages
+Input: User adds seeds to virtual garden.
 
-Output: Cookie count, which is essentially game currency, increases based on amount of upgrades purchased.
+Output: Seeds grow into crops. 2 Crops per planted seed.
 
-List: All upgrades are stored in an ordered list which each index value of the list representing the amount of 1 type of upgrade.
+List: Crop storage is in list format.
 
-Procedure: The user clicks a cookie until they get enough cookies to purchase upgrades. User uses cookies to buy upgrades which increase cookie yield per click as well as passive income without clicking.
+Procedure: The user adds seeds to virtual garden which get appended into list and displayed as storage.
 
-Selection: If user clicks certain upgrades, the value of indexes in list change based on the upgrade. When passive income and yield per click are calculated, info from the list is pulled into account.
+Selection: User can search for one type of crop and will get to see how many they have.
 
-Iteration: Localstorage and other variables update with every value change.
+Iteration: You can ask to see all crops and a loop will send each index of the list to the user.
 
 ## Written Response
 * Response to prompts 3a-3d
