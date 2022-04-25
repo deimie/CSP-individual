@@ -17,19 +17,17 @@ We will submit a video that is:
 * Less than 30 MB in file size
 * .mp4, .wmv, .avi, or .mov format
 
-## Idea: Virtual Garden
+## Idea: Farming Simulator
 
-Input: User adds seeds to virtual garden.
+Input: User adds seeds to virtual garden. User can also sell crops and make money to use other features.
 
 Output: Seeds grow into crops. 2 Crops per planted seed.
 
 List: Crop storage is in list format.
 
-Procedure: The user adds seeds to virtual garden which get appended into list and displayed as storage.
+Procedure: The user adds seeds to virtual garden which take time to grow and get appended into list and displayed as storage.
 
-Selection: User can search for one type of crop and will get to see how many they have.
-
-Iteration: You can ask to see all crops and a loop will send each index of the list to the user.
+Iteration: A feature that will repeatedly spit out crops at a rapid speed for a monetary cost.
 
 ## Written Response
 * Response to prompts 3a-3d
