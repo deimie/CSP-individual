@@ -45,11 +45,11 @@ The video demonstrates all of the above.
 the video**   
 The input is the user planting seeds, selling crops, and using "super crop growth." Output is the crops growing, the money gained from sales, and the crops gained from super crop growth.
 
-3 b. Capture and paste two program code segments you developed during
+**3 b. Capture and paste two program code segments you developed during
 the administration of this task that contain a list (or other collection
 type) being used to manage complexity in your program.
 Approx. 200 words (for all subparts of 3b combined, exclusive of
-program code)
+program code)**
 
 **i. The first program code segment must show how data have been
 stored in the list.**   
