@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Final Quiz 1
 ### Score: 39/50
 
