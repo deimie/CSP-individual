@@ -15,10 +15,10 @@
 **Q23:** The average number of daily messages sent per user appears to increase after the mobile app was released.   
 **Q39:** The approximation 30.6 million would be a better estimate for year 11.   
 
-#Final Quiz 4
+# Final Quiz 4
 ### Score: 20/25
 
-### Corrections
+### Corrections:
 
 **Q2:** Data packets may travel along different paths, arriving at the destination in order, out of order, or not at all.   
 **Q4:** Messages are broken into as many packets as are needed to transmit the data. Each packet contains both data and metadata.   
