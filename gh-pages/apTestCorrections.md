@@ -18,6 +18,8 @@
 #Final Quiz 4
 ### Score: 20/25
 
+### Corrections
+
 **Q2:** Data packets may travel along different paths, arriving at the destination in order, out of order, or not at all.   
 **Q4:** Messages are broken into as many packets as are needed to transmit the data. Each packet contains both data and metadata.   
 **Q7:** The inner loop iterates from index j + 1 to the end of the list, so each element is compared with the all elements that follow it, not just the one element that immediately follows it.   
